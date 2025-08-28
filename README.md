@@ -13,4 +13,4 @@ Fields of Interest in Data Science include:
 - Sports Industry
 - Artificial Intelligence/Machine Learning
 
-In order to test the inclusion of a photograph, I have included a photograph of my wife and I outside of our church celbrating Easter Sunday this year (2025). ![alt text](img_2185.HEIC)
+In order to test the inclusion of a photograph, I have included a photograph of my wife and I outside of our church celbrating Easter Sunday this year (2025). ![alt_text](img2185.jpg)
